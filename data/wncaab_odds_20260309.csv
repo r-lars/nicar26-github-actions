@@ -1,3 +1,4 @@
 snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker_title,bookmaker_last_update,market_key,market_last_update,home_price,away_price,draw_price
 20260309,2026-03-09 01:20:11 EDT,056e61b2c3351c6707649a839e9ee52b,basketball_wncaab,WNCAAB,2026-03-09T23:00:00Z,UConn Huskies,Villanova Wildcats,draftkings,DraftKings,2026-03-09T05:18:02Z,h2h,2026-03-09T05:18:02Z,-100000,5000,
 20260309,2026-03-09 03:05:25 EDT,056e61b2c3351c6707649a839e9ee52b,basketball_wncaab,WNCAAB,2026-03-09T23:00:00Z,UConn Huskies,Villanova Wildcats,draftkings,DraftKings,2026-03-09T07:04:27Z,h2h,2026-03-09T07:04:27Z,-100000,5000,
+20260309,2026-03-09 04:50:17 EDT,056e61b2c3351c6707649a839e9ee52b,basketball_wncaab,WNCAAB,2026-03-09T23:00:00Z,UConn Huskies,Villanova Wildcats,draftkings,DraftKings,2026-03-09T08:49:28Z,h2h,2026-03-09T08:49:28Z,-100000,5000,
