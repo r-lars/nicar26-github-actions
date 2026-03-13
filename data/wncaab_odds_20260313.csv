@@ -1,1 +1,4 @@
 snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker_title,bookmaker_last_update,market_key,market_last_update,home_price,away_price,draw_price
+20260313,2026-03-13 10:43:31 EDT,6ea642de0a2fe7ee3e19284ad8f1849a,basketball_wncaab,WNCAAB,2026-03-13T14:02:00Z,Miami (OH) RedHawks,Ohio Bobcats,betmgm,BetMGM,2026-03-13T14:43:24Z,h2h,2026-03-13T14:43:24Z,-10000,1600,
+20260313,2026-03-13 10:43:31 EDT,8db1477e89e5026f08f03e8e8e649c24,basketball_wncaab,WNCAAB,2026-03-13T15:00:00Z,Alabama A&M Bulldogs,Southern Jaguars,betrivers,BetRivers,2026-03-13T14:42:59Z,h2h,2026-03-13T14:42:59Z,-182,135,
+20260313,2026-03-13 10:43:31 EDT,8db1477e89e5026f08f03e8e8e649c24,basketball_wncaab,WNCAAB,2026-03-13T15:00:00Z,Alabama A&M Bulldogs,Southern Jaguars,betmgm,BetMGM,2026-03-13T14:43:24Z,h2h,2026-03-13T14:43:24Z,-160,135,
