@@ -1,1 +1,8 @@
 snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker_title,bookmaker_last_update,market_key,market_last_update,home_price,away_price,draw_price
+20260314,2026-03-14 10:31:21 EDT,3d1e4cdd660475409a518f2ec0911355,basketball_wncaab,WNCAAB,2026-03-14T15:00:00Z,Miami (OH) RedHawks,Toledo Rockets,draftkings,DraftKings,2026-03-14T14:31:11Z,h2h,2026-03-14T14:31:11Z,-270,220,
+20260314,2026-03-14 10:31:21 EDT,3d1e4cdd660475409a518f2ec0911355,basketball_wncaab,WNCAAB,2026-03-14T15:00:00Z,Miami (OH) RedHawks,Toledo Rockets,fanduel,FanDuel,2026-03-14T14:30:42Z,h2h,2026-03-14T14:30:42Z,-320,225,
+20260314,2026-03-14 10:31:21 EDT,3d1e4cdd660475409a518f2ec0911355,basketball_wncaab,WNCAAB,2026-03-14T15:00:00Z,Miami (OH) RedHawks,Toledo Rockets,betrivers,BetRivers,2026-03-14T14:31:04Z,h2h,2026-03-14T14:31:04Z,-286,205,
+20260314,2026-03-14 10:31:21 EDT,3d1e4cdd660475409a518f2ec0911355,basketball_wncaab,WNCAAB,2026-03-14T15:00:00Z,Miami (OH) RedHawks,Toledo Rockets,betmgm,BetMGM,2026-03-14T14:31:20Z,h2h,2026-03-14T14:31:20Z,-275,220,
+20260314,2026-03-14 10:31:21 EDT,0f4f389715970ef869179ada6de82494,basketball_wncaab,WNCAAB,2026-03-14T17:00:00Z,Alabama St Hornets,Southern Jaguars,draftkings,DraftKings,2026-03-14T14:31:11Z,h2h,2026-03-14T14:31:11Z,270,-340,
+20260314,2026-03-14 10:31:21 EDT,0f4f389715970ef869179ada6de82494,basketball_wncaab,WNCAAB,2026-03-14T17:00:00Z,Alabama St Hornets,Southern Jaguars,fanduel,FanDuel,2026-03-14T14:30:42Z,h2h,2026-03-14T14:30:42Z,265,-390,
+20260314,2026-03-14 10:31:21 EDT,0f4f389715970ef869179ada6de82494,basketball_wncaab,WNCAAB,2026-03-14T17:00:00Z,Alabama St Hornets,Southern Jaguars,betmgm,BetMGM,2026-03-14T14:31:20Z,h2h,2026-03-14T14:31:20Z,250,-325,
