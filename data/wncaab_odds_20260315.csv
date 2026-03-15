@@ -1,2 +1,5 @@
 snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker_title,bookmaker_last_update,market_key,market_last_update,home_price,away_price,draw_price
 20260315,2026-03-15 08:58:32 EDT,c8d4676b3211ba1aa43fd5bca620d8b4,basketball_wncaab,WNCAAB,2026-03-15T16:00:00Z,Holy Cross Crusaders,Lehigh Mountain Hawks,betrivers,BetRivers,2026-03-15T12:58:04Z,h2h,2026-03-15T12:58:04Z,-305,215,
+20260315,2026-03-15 10:32:58 EDT,c8d4676b3211ba1aa43fd5bca620d8b4,basketball_wncaab,WNCAAB,2026-03-15T16:00:00Z,Holy Cross Crusaders,Lehigh Mountain Hawks,betrivers,BetRivers,2026-03-15T14:32:53Z,h2h,2026-03-15T14:32:53Z,-305,215,
+20260315,2026-03-15 10:32:58 EDT,50b8d93a88cc620aaae100757b745ce1,basketball_wncaab,WNCAAB,2026-03-15T18:00:00Z,Charleston Cougars,Hofstra Pride,betrivers,BetRivers,2026-03-15T14:32:53Z,h2h,2026-03-15T14:32:53Z,-1430,600,
+20260315,2026-03-15 10:32:58 EDT,a2fdc3c549cf2e00b1852484314bde52,basketball_wncaab,WNCAAB,2026-03-15T18:00:00Z,Murray St Racers,Evansville Purple Aces,betrivers,BetRivers,2026-03-15T14:32:53Z,h2h,2026-03-15T14:32:53Z,-5000,1050,
