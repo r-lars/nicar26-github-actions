@@ -1,0 +1,9 @@
+snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker_title,bookmaker_last_update,market_key,market_last_update,home_price,away_price,draw_price
+20260403,2026-04-03 01:42:29 EDT,05b4546ee775071ed92ea4b756550cc8,basketball_wncaab,WNCAAB,2026-04-03T23:00:00Z,UConn Huskies,South Carolina Gamecocks,draftkings,DraftKings,2026-04-03T05:42:20Z,h2h,2026-04-03T05:42:20Z,-305,245,
+20260403,2026-04-03 01:42:29 EDT,05b4546ee775071ed92ea4b756550cc8,basketball_wncaab,WNCAAB,2026-04-03T23:00:00Z,UConn Huskies,South Carolina Gamecocks,fanduel,FanDuel,2026-04-03T05:41:57Z,h2h,2026-04-03T05:41:57Z,-300,235,
+20260403,2026-04-03 01:42:29 EDT,05b4546ee775071ed92ea4b756550cc8,basketball_wncaab,WNCAAB,2026-04-03T23:00:00Z,UConn Huskies,South Carolina Gamecocks,betmgm,BetMGM,2026-04-03T05:40:38Z,h2h,2026-04-03T05:40:38Z,-325,260,
+20260403,2026-04-03 01:42:29 EDT,05b4546ee775071ed92ea4b756550cc8,basketball_wncaab,WNCAAB,2026-04-03T23:00:00Z,UConn Huskies,South Carolina Gamecocks,betrivers,BetRivers,2026-04-03T05:42:20Z,h2h,2026-04-03T05:42:20Z,-360,250,
+20260403,2026-04-03 01:42:29 EDT,98c5a1da1f89a9a3b8b53a6c689caf93,basketball_wncaab,WNCAAB,2026-04-04T01:30:00Z,UCLA Bruins,Texas Longhorns,draftkings,DraftKings,2026-04-03T05:42:20Z,h2h,2026-04-03T05:42:20Z,114,-135,
+20260403,2026-04-03 01:42:29 EDT,98c5a1da1f89a9a3b8b53a6c689caf93,basketball_wncaab,WNCAAB,2026-04-04T01:30:00Z,UCLA Bruins,Texas Longhorns,fanduel,FanDuel,2026-04-03T05:41:57Z,h2h,2026-04-03T05:41:57Z,118,-144,
+20260403,2026-04-03 01:42:29 EDT,98c5a1da1f89a9a3b8b53a6c689caf93,basketball_wncaab,WNCAAB,2026-04-04T01:30:00Z,UCLA Bruins,Texas Longhorns,betrivers,BetRivers,2026-04-03T05:42:20Z,h2h,2026-04-03T05:42:20Z,112,-148,
+20260403,2026-04-03 01:42:29 EDT,98c5a1da1f89a9a3b8b53a6c689caf93,basketball_wncaab,WNCAAB,2026-04-04T01:30:00Z,UCLA Bruins,Texas Longhorns,betmgm,BetMGM,2026-04-03T05:40:38Z,h2h,2026-04-03T05:40:38Z,120,-145,
