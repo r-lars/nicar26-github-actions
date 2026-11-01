@@ -1,0 +1,4 @@
+snapshot_date,snapshot_timestamp,event_id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker_title,bookmaker_last_update,market_key,market_last_update,home_price,away_price,draw_price
+20261101,2026-11-01 00:55:13 EDT,4a52e2883c14e253b834f14018746a06,basketball_wncaab,WNCAAB,2026-11-01T17:00:00Z,Notre Dame Fighting Irish,Villanova Wildcats,fanduel,FanDuel,2026-11-01T04:55:06Z,h2h,2026-11-01T04:55:06Z,-380,260,
+20261101,2026-11-01 00:55:13 EDT,4a52e2883c14e253b834f14018746a06,basketball_wncaab,WNCAAB,2026-11-01T17:00:00Z,Notre Dame Fighting Irish,Villanova Wildcats,betrivers,BetRivers,2026-11-01T04:55:06Z,h2h,2026-11-01T04:55:06Z,-435,295,
+20261101,2026-11-01 00:55:13 EDT,4a52e2883c14e253b834f14018746a06,basketball_wncaab,WNCAAB,2026-11-01T17:00:00Z,Notre Dame Fighting Irish,Villanova Wildcats,draftkings,DraftKings,2026-11-01T04:53:59Z,h2h,2026-11-01T04:53:59Z,-425,330,
